@@ -5,15 +5,15 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
 
 START_BUTTON = [
     [
-        Button.url(" 𝐌ᴜsɪᴄ ", "https://t.me/HINATA_N_BOT"),
-        Button.url("𝐎ᴡɴᴇʀ", "https://t.me/Saif_Dictator")
+        Button.url(" 𝐌ᴜsɪᴄ ", "https://t.me/TUSHARSPAM_1_BOT"),
+        Button.url("𝐎ᴡɴᴇʀ", "https://t.me/I_AM_PAPA0809")
     ],
     [
-        Button.url(" 𝐂н𝙰𝙽𝙽𝙴𝙻 ", "https://t.me/SAIFALLBOT"),
-        Button.url(" 𝐒𝚄𝙿𝙿𝙾𝚃  ", "https://t.me/SAIFHELPGC")
+        Button.url(" 𝐂н𝙰𝙽𝙽𝙴𝙻 ", "https://t.me/TUSHAR_1_SPAMBOT"),
+        Button.url(" 𝐒𝚄𝙿𝙿𝙾𝚃  ", "https://t.me/I_AM_PAPA0809")
     ],
     [
-        Button.url("𝐑ᴇᴘᴏ ", "github.com/SAIFDEAD/AXSPAMBOT"),
+        Button.url("𝐑ᴇᴘᴏ ", "github.com/Harami005/Tusharspamz"),
       
     ]
 ]
